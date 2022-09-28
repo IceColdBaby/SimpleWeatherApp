@@ -70,5 +70,3 @@ extension ResponseBody.MainResponse {
     var tempMax: Double { return temp_max }
 }
 
-//09a1689903b647b0499bdd16bb541acf
-// "https://api.openweathermap.org/data/3.0/weather?lat=\(latitude)&lon=\(longtitude)&appid=09a1689903b647b0499bdd16bb541acf)&units=metric") else {fatalError("Missing URL")}
